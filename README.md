@@ -1,1 +1,1 @@
-# VIM CONFIGURATION
+# Vim configuration
