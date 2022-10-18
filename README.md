@@ -1,3 +1,14 @@
+# Vim configuration
+
+
+## Install plugin
+
+[reference](https://github.com/junegunn/vim-plug)
+
+
+## my vimrc
+
+```
 " gitgutter 
 " See https://github.com/airblade/vim-gitgutter
 
@@ -69,3 +80,5 @@ let g:gitgutter_sign_modified_removed = 'ww'
 set colorcolumn=81
 
 hi ColorColumn ctermbg=lightcyan guibg=blue
+
+```
